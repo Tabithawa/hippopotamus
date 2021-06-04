@@ -1,8 +1,8 @@
-Topic
+Topic:
 hippopotamus
 
-subject
+subject:
 The website is mainly about hippos
 
-Languages
+Languages used:
 HTML and CSS
